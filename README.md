@@ -29,9 +29,23 @@ hot chocolate.
 
 > All of the above books are available at a minimal cost of **Rs 2728** on [Amazon](http://amzn.in/5XkAwk4).
 
-## TOP 10 SPELLS
+## TOP 5
+SPELLS
  1. **EXPECTO PATRONUM**
  
 gets rid of pesky dementors by summoning a badass Patronus to chase them away.:smiling_imp:
 
 ![spell1](https://media.giphy.com/media/3qvMq3hVaRLry/giphy.gif)
+
+2.**ACCIO**
+
+The perfect charm for lazy people who cant be bothered to get up and fetch the tv remote.:sweat:
+
+![spell2](https://media.giphy.com/media/x9Gp1pHvCPcQg/giphy.gif)
+
+3.**WINGARDIUM LEVIOSA**
+
+Makes things levitivate.
+
+![spell3](https://media.giphy.com/media/RyLtUMBdogHvO/giphy.gif)
+

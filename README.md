@@ -8,10 +8,10 @@
  Be it your favourite books , Tshirts, wands ,or the spells that you have been trying to memorise since the first time you       watched a Harry Potter movie! We've got it all, Potterheads.
 
  
- 
-### Markdown
+```markdown 
+### BOOKS
+There is no doubt about the fact that reading a book is far better than watching a movie.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block

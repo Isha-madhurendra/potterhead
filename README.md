@@ -66,10 +66,25 @@ Basically the only spell that Harry uses when he is in dual.
    ```markdown
    we know you have always wanted to have a cloak like the wizards but frankly 
    people would judge you a lot. Dont worry ,for you can still satisfy your 
-   desire to dress up like Harry. Here are a few T-shirts that we chose out
-   of the numerous lot available on the internet.
+   desire to dress up like Harry. Here are a few T-shirts that we chose for you
+    out of the numerous lot available on the internet.
    ```
    
+ ![unknown-8](https://user-images.githubusercontent.com/38503822/39825085-96444af6-53ce-11e8-9df4-9b6237eb3d16.jpeg)
+   
+   >Available on [Amazon](http://a.co/8UOV7Nw)
+   
+![unknown-9](https://user-images.githubusercontent.com/38503822/39825087-97be5a2a-53ce-11e8-9923-559153bb4123.jpeg)
+   
+   >Available on[Amazon](http://amzn.in/dueNAE6)
+   
+![images-3](https://user-images.githubusercontent.com/38503822/39825103-9ffe8278-53ce-11e8-8609-bd33ef26675e.jpeg)
+
+  >Available on[Flipkart](https://www.flipkart.com/clothing/harry-potter~brand/pr?sid=2oq&otracker=categorytree)
+   
+![unknown-7](https://user-images.githubusercontent.com/38503822/39825105-a117016c-53ce-11e8-84e1-150e332ca252.jpeg)
+
+ >Available on [Flipkart](https://www.flipkart.com/harry-potter-graphic-print-men-s-round-neck-white-t-shirt/p/itmf3yw47eufvkff)
    
    
    

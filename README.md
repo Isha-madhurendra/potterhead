@@ -1,4 +1,4 @@
-### POTTERHEADS
+## POTTERHEADS
 
  If you are a Harry Potter fan then you are at the right place!
  All of us are part of a community whose Hogwarts acceptance letters probably never got delivered. But the craze didnt vanish!
@@ -27,3 +27,4 @@ hot chocolate.
 ![unknown-5](https://user-images.githubusercontent.com/38503822/39815863-fe2c8998-53b6-11e8-9576-fb75c3a21010.jpeg)
 ![images-2](https://user-images.githubusercontent.com/38503822/39816147-f7eb4b04-53b7-11e8-887c-6a275526f6b6.jpeg)
 
+> All of the above books are available at a minimal cost of **Rs 2728** on [Amazon](http://amzn.in/5XkAwk4).

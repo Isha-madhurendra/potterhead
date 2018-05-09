@@ -61,7 +61,7 @@ Basically the only spell that Harry uses when he is in dual.
  ![spell5](https://media.giphy.com/media/1OoGe5nmSV3fW/giphy.gif)
  
  
- ### T-SHIRTS
+ ## T-SHIRTS
    ```markdown
    we know you have always wanted to have a cloak like the wizards but frankly 
    people would judge you a lot. Dont worry ,for you can still satisfy your 
@@ -87,10 +87,12 @@ Basically the only spell that Harry uses when he is in dual.
    
    
    
-   ## CONTACT US
-   ==================
+   # CONTACT US
+ 
    THE POTTERHEADS
+   
    :telephone: 7800807956
+   
    :email: hogwarts_accept_my_letter@gmail.com
      
      *And yes, STAY AWAY FROM MUGGLES!*

@@ -29,8 +29,7 @@ hot chocolate.
 
 > All of the above books are available at a minimal cost of **Rs 2728** on [Amazon](http://amzn.in/5XkAwk4).
 
-## TOP 5
-SPELLS
+## TOP 5 SPELLS
  1. **EXPECTO PATRONUM**
  
 gets rid of pesky dementors by summoning a badass Patronus to chase them away.:smiling_imp:
@@ -88,6 +87,13 @@ Basically the only spell that Harry uses when he is in dual.
    
    
    
+   ## CONTACT US
+   ==================
+   THE POTTERHEADS
+   :telephone: 7800807956
+   :email: hogwarts_accept_my_letter@gmail.com
+     
+     *And yes, STAY AWAY FROM MUGGLES!*
    
    
  

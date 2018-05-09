@@ -1,4 +1,4 @@
-## POTTERHEADS
+##  HI POTTERHEADS!
 
  If you are a Harry Potter fan then you are at the right place!
  All of us are part of a community whose Hogwarts acceptance letters probably never got delivered. But the craze didnt vanish!

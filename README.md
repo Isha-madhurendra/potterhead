@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## POTTERHEADS
 
 You can use the [editor on GitHub](https://github.com/Isha-madhurendra/potterhead/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

@@ -49,3 +49,31 @@ Makes things levitivate.
 
 ![spell3](https://media.giphy.com/media/RyLtUMBdogHvO/giphy.gif)
 
+4.**EXPELLIARMUS**
+
+Basically the only spell that Harry uses when he is in dual.
+
+![spell4](https://media.giphy.com/media/Es8BGPvUSkNGg/giphy.gif)
+
+5.**LUMOS**
+ 
+ The spell equivalent of that little torch app on your iPhone.
+ 
+ ![spell5](https://media.giphy.com/media/1OoGe5nmSV3fW/giphy.gif)
+ 
+ 
+ ### T-SHIRTS
+   ```markdown
+   we know you have always wanted to have a cloak like the wizards but frankly 
+   people would judge you a lot. Dont worry ,for you can still satisfy your 
+   desire to dress up like Harry. Here are a few T-shirts that we chose out
+   of the numerous lot available on the internet.
+   ```
+   
+   
+   
+   
+   
+   
+ 
+

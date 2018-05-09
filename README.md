@@ -1,9 +1,14 @@
 ## POTTERHEADS
 
-You can use the [editor on GitHub](https://github.com/Isha-madhurendra/potterhead/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ If you are a Harry Potter fan then you are at the right place!
+ All of us are part of a community whose Hogwarts acceptance letters probably never got delivered. But the craze didnt vanish!
+ 
+ 
+ We bring to you an all new collection of official Harry potter merchandise and books under one single tab.
+ Be it your favourite books , Tshirts, wands ,or the spells that you have been trying to memorise since the first time you       watched a Harry Potter movie! We've got it all, Potterheads.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+ 
+ 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

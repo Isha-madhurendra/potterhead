@@ -7,11 +7,12 @@
  We bring to you an all new collection of official Harry potter merchandise and books under one single tab.
  Be it your favourite books , Tshirts, wands ,or the spells that you have been trying to memorise since the first time you       watched a Harry Potter movie! We've got it all, Potterheads.
 
- 
+### BOOKS 
 ```markdown 
-### BOOKS
-There is no doubt about the fact that reading a book is far better than watching a movie.
 
+There is no doubt about the fact that reading a book is far
+better than watching a movie
+```
 
 ```markdown
 Syntax highlighted code block

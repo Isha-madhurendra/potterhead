@@ -28,3 +28,7 @@ hot chocolate.
 ![images-2](https://user-images.githubusercontent.com/38503822/39816147-f7eb4b04-53b7-11e8-887c-6a275526f6b6.jpeg)
 
 > All of the above books are available at a minimal cost of **Rs 2728** on [Amazon](http://amzn.in/5XkAwk4).
+
+## TOP 10 SPELLS
+> 1. **EXPECTO PATRONUM**
+gets rid of pesky dementors by summoning a badass Patronus to chase them away.:smiling_imp:

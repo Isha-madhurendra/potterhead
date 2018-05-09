@@ -62,8 +62,7 @@ Basically the only spell that Harry uses when he is in dual.
  
  
  
-  ### T-SHIRTS
- 
+**T-SHIRTS**
    ```markdown
    we know you have always wanted to have a cloak like the wizards but frankly 
    people would judge you a lot. Dont worry ,for you can still satisfy your 
@@ -86,6 +85,16 @@ Basically the only spell that Harry uses when he is in dual.
 ![unknown-7](https://user-images.githubusercontent.com/38503822/39825105-a117016c-53ce-11e8-84e1-150e332ca252.jpeg)
 
  >Available on [Flipkart](https://www.flipkart.com/harry-potter-graphic-print-men-s-round-neck-white-t-shirt/p/itmf3yw47eufvkff)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
    
    
    

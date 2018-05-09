@@ -34,4 +34,4 @@ hot chocolate.
  
 gets rid of pesky dementors by summoning a badass Patronus to chase them away.:smiling_imp:
 
-https://media.giphy.com/media/3qvMq3hVaRLry/giphy.gif
+![spell1](https://media.giphy.com/media/3qvMq3hVaRLry/giphy.gif)

@@ -24,17 +24,5 @@ hot chocolate.
 ![order of phoenix](https://user-images.githubusercontent.com/38503822/39815355-55dbfc84-53b5-11e8-9242-b4742a0cfecc.jpeg)
 ![half blood prince](https://user-images.githubusercontent.com/38503822/39815358-575220fc-53b5-11e8-9324-2c9b6627114c.jpeg)
 ![deathly hallows](https://user-images.githubusercontent.com/38503822/39815359-58eaac04-53b5-11e8-86ae-4f989859691a.jpeg)
+![unknown-5](https://user-images.githubusercontent.com/38503822/39815863-fe2c8998-53b6-11e8-9576-fb75c3a21010.jpeg)
 
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Isha-madhurendra/potterhead/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

@@ -9,10 +9,14 @@
 
 ### BOOKS 
 ```markdown 
-
 There is no doubt about the fact that reading a book is far
-better than watching a movie
+better than watching a movie.While reading a book you can understand the 
+emotions that the character is undergoing in a much more vivid manner.
+Here's to all those wizards who love the weight of a heavy book on their
+laps with a free mind trip to Hogwarts while they are sipping on the 
+hot chocolate.
 ```
+
 
 ```markdown
 Syntax highlighted code block
